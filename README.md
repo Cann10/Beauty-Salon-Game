@@ -122,13 +122,26 @@ Beauty salon/
 
 # プレイ方法
 
+## ダウンロード方法
+
+Releases から zip ファイルをダウンロードしてください。
+
+## 起動方法
+
+Release フォルダ内の
+`Beauty salon.exe`
+を実行してください。
+
+※ Windows環境で動作確認済み
+
+---
+
+
 ## ビルド方法
 
 1. Visual Studioでプロジェクトを開く
 2. DxLibを導入
 3. 実行
-
----
 
 # Status
 
